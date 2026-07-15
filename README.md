@@ -9,7 +9,7 @@ Visitors first go through short guide pages, then design a reusable UI element, 
 Replace this with your GitHub Pages link after publishing:
 
 ```text
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
+https://alven356.github.io/Homework-UI-Design-Guide/
 ```
 
 ## What the visitor can do
